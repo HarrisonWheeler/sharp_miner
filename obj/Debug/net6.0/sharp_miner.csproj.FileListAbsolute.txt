@@ -1,0 +1,15 @@
+C:\Users\Harrison\source\codeworks\practice\sharp_miner\bin\Debug\net6.0\sharp_miner.exe
+C:\Users\Harrison\source\codeworks\practice\sharp_miner\bin\Debug\net6.0\sharp_miner.deps.json
+C:\Users\Harrison\source\codeworks\practice\sharp_miner\bin\Debug\net6.0\sharp_miner.runtimeconfig.json
+C:\Users\Harrison\source\codeworks\practice\sharp_miner\bin\Debug\net6.0\sharp_miner.dll
+C:\Users\Harrison\source\codeworks\practice\sharp_miner\bin\Debug\net6.0\ref\sharp_miner.dll
+C:\Users\Harrison\source\codeworks\practice\sharp_miner\bin\Debug\net6.0\sharp_miner.pdb
+C:\Users\Harrison\source\codeworks\practice\sharp_miner\obj\Debug\net6.0\sharp_miner.csproj.AssemblyReference.cache
+C:\Users\Harrison\source\codeworks\practice\sharp_miner\obj\Debug\net6.0\sharp_miner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Harrison\source\codeworks\practice\sharp_miner\obj\Debug\net6.0\sharp_miner.AssemblyInfoInputs.cache
+C:\Users\Harrison\source\codeworks\practice\sharp_miner\obj\Debug\net6.0\sharp_miner.AssemblyInfo.cs
+C:\Users\Harrison\source\codeworks\practice\sharp_miner\obj\Debug\net6.0\sharp_miner.csproj.CoreCompileInputs.cache
+C:\Users\Harrison\source\codeworks\practice\sharp_miner\obj\Debug\net6.0\sharp_miner.dll
+C:\Users\Harrison\source\codeworks\practice\sharp_miner\obj\Debug\net6.0\ref\sharp_miner.dll
+C:\Users\Harrison\source\codeworks\practice\sharp_miner\obj\Debug\net6.0\sharp_miner.pdb
+C:\Users\Harrison\source\codeworks\practice\sharp_miner\obj\Debug\net6.0\sharp_miner.genruntimeconfig.cache
