@@ -8,7 +8,6 @@ namespace sharp_miner.Models
     public List<Upgrade> Shop { get; set; }
     public Dictionary<string, decimal> Stats { get; set; }
     public List<Upgrade> ClickUpgrades { get; set; }
-    public bool InShop { get; set; }
     public SpaceGame()
     {
       Running = true;
@@ -47,7 +46,6 @@ namespace sharp_miner.Models
 
     public void GoToShop()
     {
-      InShop = true;
       Console.Clear();
       Console.WriteLine("Welcome to the McShop! BUY SOMETHING");
       // This is drawing the shop
@@ -93,7 +91,6 @@ namespace sharp_miner.Models
       }
       Console.WriteLine("press any key to exit");
       Console.ReadKey();
-      InShop = false;
     }
 
     public void Mine()
